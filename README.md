@@ -1,6 +1,6 @@
 # 🧠 AI Impact Power BI Dashboard
 
-This repository hosts a feature-rich, interactive **Power BI dashboard** that explores the **impact of Artificial Intelligence across industries** using a real-world CSV dataset. The dashboard combines modern BI features and intuitive UX design to deliver actionable insights for data-driven decision-making.
+This repository hosts a feature-rich, interactive **Power BI dashboard** that explores the **impact of Artificial Intelligence on Developer Performance and Focus across industries** using a real-world CSV dataset. The dashboard combines modern BI features and intuitive UX design to deliver actionable insights for data-driven decision-making.
 
 ---
 
