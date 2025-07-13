@@ -14,9 +14,9 @@ To visualize and analyze the **growing influence of AI technologies** across sec
 
 | File Name                     | Description |
 |------------------------------|-------------|
-| `Ai_Impact_Dashboard.pbix`   | Main Power BI report file |
+| `Ai Impact Dashboard.pbix`   | Main Power BI report file |
 | `ai_impact_dataset.csv`      | Raw dataset used for analysis |
-| `preview1.png` - `previewN.png` | Screenshots of key report pages |
+| `Ai Impact Dashboard_page-0001.jpg` - `Ai Impact Dashboard_page-0006.jpg` | Screenshots of key report pages |
 | `README.md`                  | Project documentation |
 
 ---
@@ -70,10 +70,10 @@ This dashboard leverages **advanced Power BI capabilities** to provide a profess
 > Insert your screenshots below (update filenames accordingly):
 
 ### 📍 Overview Page
-![Overview](preview1.png)
+![Overview](Ai Impact Dashboard_page-0001.jpg)
 
 ### 📍 AI Trends by Industry
-![Trends](preview2.png)
+![Trends](Ai Impact Dashboard_page-0002.jpg)
 
 ### 📍 Decomposition Tree Analysis
 ![Tree](preview3.png)
