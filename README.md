@@ -69,17 +69,23 @@ This dashboard leverages **advanced Power BI capabilities** to provide a profess
 
 > Insert your screenshots below (update filenames accordingly):
 
-### 📍 Overview Page
-![Overview]()
+### 📍 Home Page
+![Home Page](https://github.com/mp-patel04/AI-Impact-Dashboard/blob/main/Ai%20Impact%20Dashboard_page-0001.jpg)
 
-### 📍 AI Trends by Industry
-![Trends](Ai Impact Dashboard_page-0002.jpg)
+### 📍 Developer Productivity Overview
+![Developer Productivity Overview](https://github.com/mp-patel04/AI-Impact-Dashboard/blob/main/Ai%20Impact%20Dashboard_page-0002.jpg)
 
-### 📍 Decomposition Tree Analysis
-![Tree](preview3.png)
+### 📍 Root Cause Analysis
+![Root Cause Analysis](https://github.com/mp-patel04/AI-Impact-Dashboard/blob/main/Ai%20Impact%20Dashboard_page-0003.jpg)
 
-### 📍 Q&A Page
-![QnA](preview4.png)
+### 📍 AI Impact & Developer Well-being (AI Impact)
+![AI Impact](https://github.com/mp-patel04/AI-Impact-Dashboard/blob/main/Ai%20Impact%20Dashboard_page-0004.jpg)
+
+### 📍 AI Impact & Developer Well-being (Developer Well-being)
+![Developer Well-being](https://github.com/mp-patel04/AI-Impact-Dashboard/blob/main/Ai%20Impact%20Dashboard_page-0005.jpg)
+
+### 📍 Extra Insights (Tooltip)
+![Tooltip](https://github.com/mp-patel04/AI-Impact-Dashboard/blob/main/Ai%20Impact%20Dashboard_page-0006.jpg)
 
 ---
 
