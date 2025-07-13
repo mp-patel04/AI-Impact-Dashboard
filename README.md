@@ -14,8 +14,8 @@ To visualize and analyze the **growing influence of AI technologies** across sec
 
 | File Name                     | Description |
 |------------------------------|-------------|
-| `https://github.com/mp-patel04/AI-Impact-Dashboard/blob/main/Ai%20Impact%20Dashboard.pbix`   | Main Power BI report file |
-| `ai_impact_dataset.csv`      | Raw dataset used for analysis |
+| `Ai Impact Dashboard.pbix`   | Main Power BI report file |
+| `Ai impact.csv`      | Raw dataset used for analysis |
 | `Ai Impact Dashboard_page-0001.jpg` - `Ai Impact Dashboard_page-0006.jpg` | Screenshots of key report pages |
 | `README.md`                  | Project documentation |
 
@@ -66,8 +66,6 @@ This dashboard leverages **advanced Power BI capabilities** to provide a profess
 ---
 
 ## 📷 Dashboard Preview
-
-> Insert your screenshots below (update filenames accordingly):
 
 ### 📍 Home Page
 ![Home Page](https://github.com/mp-patel04/AI-Impact-Dashboard/blob/main/Ai%20Impact%20Dashboard_page-0001.jpg)
@@ -133,7 +131,7 @@ The dataset (`ai_impact_dataset.csv`) includes the following attributes:
 **Manish Patel**
 
 - 🔗 [GitHub](https://github.com/mp-patel04)
-- 📫 *(Add LinkedIn or Email if you'd like)*
+- 📫 [Linkedin](https://www.linkedin.com/in/manish-patel-697712208)
 
 ---
 
