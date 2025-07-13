@@ -103,7 +103,7 @@ The dataset (`ai_impact_dataset.csv`) includes the following attributes:
 ## 🚀 How to Use This Project
 
 1. Clone or download this repository.
-2. Open the `Ai_Impact_Dashboard.pbix` file using **Power BI Desktop**.
+2. Open the `Ai Impact Dashboard.pbix` file using **Power BI Desktop**.
 3. Explore insights through:
    - Slicers and filters
    - Q&A visual
