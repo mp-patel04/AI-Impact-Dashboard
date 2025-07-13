@@ -14,7 +14,7 @@ To visualize and analyze the **growing influence of AI technologies** across sec
 
 | File Name                     | Description |
 |------------------------------|-------------|
-| `[Ai Impact Dashboard.pbix](https://github.com/mp-patel04/AI-Impact-Dashboard/blob/main/Ai%20Impact%20Dashboard.pbix)`   | Main Power BI report file |
+| `Ai Impact Dashboard.pbix`   | Main Power BI report file |
 | `ai_impact_dataset.csv`      | Raw dataset used for analysis |
 | `Ai Impact Dashboard_page-0001.jpg` - `Ai Impact Dashboard_page-0006.jpg` | Screenshots of key report pages |
 | `README.md`                  | Project documentation |
